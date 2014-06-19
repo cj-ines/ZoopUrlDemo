@@ -22,7 +22,8 @@ return array(
         'username' => 'depf7gq3vad',
         'password' => 'oVIhCADF7jIl',
    		
-    ),*/
+    ),
+    */
     'service_manager' => array(
         'factories' => array(
             'Zend\Db\Adapter\Adapter'
